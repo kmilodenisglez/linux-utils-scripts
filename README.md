@@ -19,9 +19,10 @@ Este repositorio reúne **scripts y utilidades para Linux** para administración
 
 ## 📂 Scripts Overview | Resumen de Scripts
 
-| Script / Carpeta | Status | Description (EN/ES) |
-|-----------------|--------|-------------------|
-| [`sdd-nvme`](./sdd-nvme) | ✅ Tested | **EN:** NVMe drive analysis: SMART info, health, temperature, performance checks. <br> **ES:** Análisis de discos NVMe: información SMART, estado de salud, temperatura, revisión de rendimiento. |
+| Script / Carpeta               | Status | Description (EN/ES) |
+|--------------------------------|--------|-------------------|
+| [`sdd-nvme`](./sdd-nvme)       | ✅ Tested | **EN:** NVMe drive analysis: SMART info, health, temperature, performance checks. <br> **ES:** Análisis de discos NVMe: información SMART, estado de salud, temperatura, revisión de rendimiento. |
+| [`telegram-alert`](./TELEGRAM-INTEGRATION.md) | ✅ Tested | **EN:** Instructions for setting up alerts via Telegram. <br> **ES:** instrucciones para configurar alertas vía Telegram. |
 <!-- Puedes agregar más filas aquí cuando agregues nuevos scripts -->
 
 ---
