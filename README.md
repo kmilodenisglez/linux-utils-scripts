@@ -1,13 +1,3 @@
-¡Perfecto! Vamos a hacer una versión **avanzada y profesional** del README bilingüe, con:
-
-* Badges por script / estado / compatibilidad.
-* Enlaces directos a carpetas.
-* Sección de instalación y requerimientos.
-* Tips de uso y contribución.
-
-Aquí tienes la propuesta:
-
-````markdown
 # Linux Utils Scripts | Scripts de Utilidades para Linux
 
 ![Repository Size](https://img.shields.io/badge/repo-size-medium-blue)
