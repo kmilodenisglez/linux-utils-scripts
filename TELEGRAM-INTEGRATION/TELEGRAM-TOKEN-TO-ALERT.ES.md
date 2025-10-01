@@ -55,8 +55,13 @@ Para enviar mensajes a ti mismo:
 
 ```bash
 mkdir -p ~/.config
-nano ~/.config/nvme-monitor.env
+touch ~/.config/nvme-monitor.env
 chmod 600 ~/.config/nvme-monitor.env
+````
+
+1.1. Abre el archivo de configuración:
+```bash
+nano ~/.config/nvme-monitor.env
 ````
 
 2. Pega el contenido:
