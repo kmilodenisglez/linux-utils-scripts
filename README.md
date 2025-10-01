@@ -1,7 +1,7 @@
 # Linux Utils Scripts | Scripts de Utilidades para Linux
 
-![Repository Size](https://img.shields.io/badge/repo-size-medium-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Repository Size]([https://img.shields.io/badge/repo-size-medium-blue](https://img.shields.io/github/languages/code-size/kmilodenisglez/linux-utils-scripts))
+![License](https://img.shields.io/badge/license-LGPL-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-orange)
 ![Last Update](https://img.shields.io/github/last-commit/tu-usuario/linux-utils-scripts)
 
