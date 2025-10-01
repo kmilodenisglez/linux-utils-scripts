@@ -1,6 +1,3 @@
-### 3️⃣ **README.md** (enlace a ES/EN)
-
-```markdown
 # 📘 NVMe Monitor
 
 This repository contains an automatic NVMe drive monitor with notifications and reports.
