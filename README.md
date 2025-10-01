@@ -34,7 +34,7 @@ Este repositorio reúne **scripts y utilidades para Linux** para administración
 - Make sure `bash` and `smartctl` (for NVMe script) are installed.  
 - Clone the repository:  
 ```bash
-git clone https://github.com/tu-usuario/linux-utils-scripts.git
+git clone https://github.com/kmilodenisglez/linux-utils-scripts.git
 ````
 
 **ES:**
@@ -44,7 +44,7 @@ git clone https://github.com/tu-usuario/linux-utils-scripts.git
 * Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/linux-utils-scripts.git
+git clone https://github.com/kmilodenisglez/linux-utils-scripts.git
 ```
 
 ---
