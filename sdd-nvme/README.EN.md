@@ -32,7 +32,10 @@ TELEGRAM_TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
 TELEGRAM_CHAT_ID=987654321
 ```
 
-> You can also export the variables in your shell for testing.
+> You can also export the variables in your shell for testing, run:
+> ```bash
+> source ~/.config/nvme-monitor.env
+> ```
 
 ---
 
