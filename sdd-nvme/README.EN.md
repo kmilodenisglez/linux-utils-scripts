@@ -68,6 +68,12 @@ myuser ALL=(ALL) NOPASSWD: /usr/sbin/smartctl
 
 ### Service (`~/.config/systemd/user/nvme-monitor.service`)
 
+#### Create service file:
+```bash
+nano ~/.config/systemd/user/nvme-monitor.service
+```
+
+Content:
 ```ini
 [Unit]
 Description=NVMe Health Monitor
@@ -80,6 +86,12 @@ EnvironmentFile=%h/.config/nvme-monitor.env
 
 ### Timer (`~/.config/systemd/user/nvme-monitor.timer`)
 
+#### Create timer file:
+```bash
+nano ~/.config/systemd/user/nvme-monitor.timer
+```
+
+Content:
 ```ini
 [Unit]
 Description=Run NVMe Health Monitor weekly
