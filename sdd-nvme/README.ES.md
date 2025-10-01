@@ -6,6 +6,7 @@ Se despliega como un **servicio systemd user** con un **timer semanal**.
 ---
 
 ## 1) Script final (`/home/myuser/nvme-monitor.sh`)
+> Reemplaza `myuser` por tu usuario.
 
 Guarda exactamente este archivo en `/home/myuser/nvme-monitor.sh` y hazlo ejecutable:
 
@@ -83,6 +84,7 @@ Type=oneshot
 ExecStart=/home/myuser/nvme-monitor.sh
 EnvironmentFile=%h/.config/nvme-monitor.env
 ```
+> Reemplaza `myuser` por tu usuario.
 
 ### Timer (`~/.config/systemd/user/nvme-monitor.timer`)
 
@@ -118,6 +120,7 @@ systemctl --user list-timers | grep nvme
 ---
 
 ## 7) Verificación y pruebas
+> Reemplaza `myuser` por tu usuario.
 
 ```bash
 /home/myuser/nvme-monitor.sh
